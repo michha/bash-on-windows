@@ -12,6 +12,7 @@ Here you will find everything for running cakephp on the newly Windows 10 Bash s
 * [Uservoice Command-Prompt-Console](https://wpdev.uservoice.com/forums/266908-command-prompt-console/category/161892-bash)
 * [Scott Hanselman Blog Entry](http://www.hanselman.com/blog/DevelopersCanRunBashShellAndUsermodeUbuntuLinuxBinariesOnWindows10.aspx)
 * [Run Bash on Ubuntu on Windows](https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/)
+* [Github Project for issues](https://github.com/Microsoft/BashOnWindows)
 
 # Requirements
 1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview)
