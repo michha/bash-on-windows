@@ -1,3 +1,8 @@
+# Exit the script as soon as an executed command does not succeed
+set -o errexit
+# Exit the script when an unintialized variable is used
+set -o nounset
+
 echo "Hello $USER"
 
 echo "Setting up cakephp environment"
