@@ -15,7 +15,7 @@ Here you will find everything for running cakephp on the newly Windows 10 Bash s
 * [Github Project for issues](https://github.com/Microsoft/BashOnWindows)
 
 # Requirements
-1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview)
+1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview) - see [How to use Windows Insider Preview](http://windows.microsoft.com/en-us/windows/preview-how-to)
 1. MSDN site has a [nice pictured guide][install guide] that will help you through the installation
 
 # Setup cakephp environment
