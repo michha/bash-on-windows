@@ -5,14 +5,12 @@ Here you will find everything for running cakephp on the newly Windows 10 Bash s
 **There are currently some major issues inside the bash shell concerning networking that keep me from starting the webserver**
 
 # Sources
-* [Channel 9 - Bash demonstrated with Rich Turner and Russ Alexander](https://channel9.msdn.com/Events/Build/2016/P488)
-* [Channel 9 - Bash explained with Scott Hanselman](https://channel9.msdn.com/Events/Build/2016/C906)
 * [MSDN - Bash on Ubuntu on Windows](https://msdn.microsoft.com/commandline/wsl/about)
 * [Command Line Blog](https://blogs.msdn.microsoft.com/commandline/)
 * [Uservoice Command-Prompt-Console](https://wpdev.uservoice.com/forums/266908-command-prompt-console/category/161892-bash)
-* [Scott Hanselman Blog Entry](http://www.hanselman.com/blog/DevelopersCanRunBashShellAndUsermodeUbuntuLinuxBinariesOnWindows10.aspx)
-* [Run Bash on Ubuntu on Windows](https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/)
 * [Github Project for issues](https://github.com/Microsoft/BashOnWindows)
+
+A list of blog entries and presentations about Bash on Ubunto on Windows and using it can be found at the  [official documentation](https://msdn.microsoft.com/commandline/wsl/about#announcements).
 
 # Requirements
 1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview) - see [How to use Windows Insider Preview](http://windows.microsoft.com/en-us/windows/preview-how-to)
