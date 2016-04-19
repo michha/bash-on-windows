@@ -17,13 +17,17 @@ A list of blog entries and presentations about Bash on Ubunto on Windows and usi
 1. MSDN site has a [nice pictured guide][install guide] that will help you through the installation
 
 # Setup cakephp environment
-On the Windows command prompt (`cmd`) execute the following command `bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/cakephp-setup.sh | sh"`. This will install the pieces you need for cakephp.
+On the Windows command prompt (`cmd`) execute the following command
+
+    bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/cakephp-setup.sh | sh"
+
+This will install the pieces you need for cakephp using the script [ cake-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh) within this repository.
 
 # Uninstall
 Run `lxrun /uninstall /full` ([command reference]) to get rid of your Ubuntu image and your home directory.
 
 # FAQ
-If you have any questions on using Bash on Windows you may find your answer in the [faq].
+If you have any questions on using Bash on Windows you may find your answer in the [FAQ].
 
 [install guide]: https://msdn.microsoft.com/en-us/commandline/wsl/install_guide
 [command reference]: https://msdn.microsoft.com/en-us/commandline/wsl/reference
