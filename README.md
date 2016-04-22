@@ -1,8 +1,4 @@
-Here you will find everything for running cakephp on the newly Windows 10 Bash shell without the need of virtual machines anymore.
-
 **BEWARE ! As of now the Windows 10 Bash shell is just available for testers of the Windows Insider Preview program**
-
-**There are currently some major issues inside the bash shell concerning networking that keep me from starting the webserver**
 
 # Sources
 * [MSDN - Bash on Ubuntu on Windows](https://msdn.microsoft.com/commandline/wsl/about)
@@ -15,13 +11,6 @@ A list of blog entries and presentations about Bash on Ubunto on Windows and usi
 # Requirements
 1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview) - see [How to use Windows Insider Preview](http://windows.microsoft.com/en-us/windows/preview-how-to)
 1. MSDN site has a [nice pictured guide][install guide] that will help you through the installation
-
-# Setup cakephp environment
-On the Windows command prompt (`cmd`) execute the following command
-
-    bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/cakephp-setup.sh | sh"
-
-This will install the pieces you need for cakephp using the script [ cake-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh) within this repository.
 
 # Uninstall
 Run `lxrun /uninstall /full` ([command reference]) to get rid of your Ubuntu image and your home directory.
