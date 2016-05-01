@@ -17,6 +17,9 @@ sudo apt-get update
 echo "Installing fish..."
 sudo apt-get install -y fish
 
+echo "Installing git (required for oh-my-fish installation)"
+sudo apt-get install -y git
+
 echo "Installing oh-my-fish..."
 curl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install | fish
 
