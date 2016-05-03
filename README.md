@@ -15,6 +15,8 @@ A list of blog entries and presentations about Bash on Ubunto on Windows and usi
 # Uninstall
 Run `lxrun /uninstall /full` ([command reference]) to get rid of your Ubuntu image and your home directory.
 
+If you want to cleanup and reinstall your Bash, have a look at [bash-reinstall.bat](https://github.com/michha/cakephp-windows10-bash/blob/master/bash-reinstall.bat).
+
 # FAQ
 If you have any questions on using Bash on Windows you may find your answer in the [FAQ].
 
