@@ -1,4 +1,4 @@
-**BEWARE ! As of now the Windows 10 Bash shell is just available for testers of the Windows Insider Preview program**
+**BEWARE ! As of now Bash On Ubunto on Windows is only available for participants of the Windows Insider Preview program**
 
 # Sources
 * [MSDN - Bash on Ubuntu on Windows](https://msdn.microsoft.com/commandline/wsl/about)
