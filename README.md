@@ -12,6 +12,12 @@ A list of blog entries and presentations about Bash on Ubunto on Windows and usi
 1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview) - see [How to use Windows Insider Preview](http://windows.microsoft.com/en-us/windows/preview-how-to)
 1. MSDN site has a [nice pictured guide][install guide] that will help you through the installation
 
+# Scripts
+This repository contains several scripts that you can use on Bash on Ubunto on Windows.
+* [cakephp-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh)
+* [fish-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/fish-setup.sh)
+* [ruby-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/ruby-setup.sh)
+
 # Uninstall
 Run `lxrun /uninstall /full` ([command reference]) to get rid of your Ubuntu image and your home directory.
 
