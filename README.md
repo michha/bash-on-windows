@@ -13,10 +13,19 @@ A list of blog entries and presentations about Bash on Ubunto on Windows and usi
 1. MSDN site has a [nice pictured guide][install guide] that will help you through the installation
 
 # Scripts
-This repository contains several scripts that you can use on Bash on Ubunto on Windows.
-* [cakephp-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh)
-* [fish-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/fish-setup.sh)
-* [ruby-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/ruby-setup.sh)
+This repository contains several scripts that you can use with Bash on Ubunto on Windows. To run one of the scripts execute the particular command on the Windows command prompt (`cmd`).
+
+## [cakephp-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh)
+
+    bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/cakephp-setup.sh | sh"
+
+## [fish-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/fish-setup.sh)
+
+    bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/fish-setup.sh | sh"
+
+## [ruby-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/ruby-setup.sh)
+
+    bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/ruby-setup.sh | sh"
 
 # Uninstall
 Run `lxrun /uninstall /full` ([command reference]) to get rid of your Ubuntu image and your home directory.
