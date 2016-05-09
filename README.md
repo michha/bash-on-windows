@@ -16,9 +16,10 @@ A list of blog entries and presentations about Bash on Ubunto on Windows and usi
 This repository contains several scripts that you can use with Bash on Ubunto on Windows. To run one of the scripts execute the particular command on the Windows command prompt (`cmd`).
 
 ## [cakephp-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh)
+**There are currently some major issues inside the bash shell concerning networking that will keep you from starting the webserver**
 
     bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/cakephp-setup.sh | sh"
-
+    
 ## [fish-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/fish-setup.sh)
 
     bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/fish-setup.sh | sh"
