@@ -1,4 +1,4 @@
-**BEWARE ! As of now Bash On Ubunto on Windows is only available for participants of the Windows Insider Preview program**
+**BEWARE ! As of now Bash On Ubuntu on Windows is only available for participants of the Windows Insider Preview program**
 
 # Sources
 * [MSDN - Bash on Ubuntu on Windows](https://msdn.microsoft.com/commandline/wsl/about)
@@ -6,14 +6,14 @@
 * [Uservoice Command-Prompt-Console](https://wpdev.uservoice.com/forums/266908-command-prompt-console/category/161892-bash)
 * [Github Project for issues](https://github.com/Microsoft/BashOnWindows)
 
-A list of blog entries and presentations about Bash on Ubunto on Windows and using it can be found at the  [official documentation](https://msdn.microsoft.com/commandline/wsl/about#announcements).
+A list of blog entries and presentations about Bash on Ubuntu on Windows and using it can be found at the  [official documentation](https://msdn.microsoft.com/commandline/wsl/about#announcements).
 
 # Requirements
 1. Windows 10 x64 Redstone Build (at least 14316, which is currently only available in the Fast ring of the Windows Insider Preview) - see [How to use Windows Insider Preview](http://windows.microsoft.com/en-us/windows/preview-how-to)
 1. MSDN site has a [nice pictured guide][install guide] that will help you through the installation
 
 # Scripts
-This repository contains several scripts that you can use with Bash on Ubunto on Windows. To run one of the scripts execute the particular command on the Windows command prompt (`cmd`).
+This repository contains several scripts that you can use with Bash on Ubuntu on Windows. To run one of the scripts execute the particular command on the Windows command prompt (`cmd`).
 
 ## [cakephp-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/cakephp-setup.sh)
 
