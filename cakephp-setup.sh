@@ -10,7 +10,7 @@ echo "Setting up cakephp environment"
 
 echo "Updating packaging tool..."
 sudo apt-get update
-sudo apt-get upgrade
+#sudo apt-get upgrade
 
 echo "Installing php packages..."
 sudo apt-get install -y php5 php5-mysql php5-cli php5-intl php5-sqlite
