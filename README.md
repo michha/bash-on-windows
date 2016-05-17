@@ -23,6 +23,11 @@ This repository contains several scripts that you can use with Bash on Ubuntu on
 ## [fish-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/fish-setup.sh)
 
     bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/fish-setup.sh | sh"
+    
+## [jekyll-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/jekyll-setup.sh)
+**Work in Progress - final step ends with error**
+
+    bash -c "curl -s -L https://github.com/michha/cakephp-windows10-bash/raw/master/jekyll-setup.sh | sh"
 
 ## [ruby-setup.sh](https://github.com/michha/cakephp-windows10-bash/blob/master/ruby-setup.sh)
 
